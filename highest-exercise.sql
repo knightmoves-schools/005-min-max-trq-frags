@@ -1,1 +1,2 @@
 -- Add your SQL here
+SELECT MAX{PRICE} FROM GROCERY;
